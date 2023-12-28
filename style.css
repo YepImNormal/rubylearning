@@ -1,0 +1,32 @@
+body{
+	background-color: #Fb6a93;
+	font-family: Consolas;
+	color: #F9C9D6;
+}
+/* unvisited link */
+a:link {
+  color: floralwhite;
+}
+
+/* visited link */
+a:visited {
+  color: floralwhite;
+}
+
+/* mouse over link */
+a:hover {
+  color: #F9C9D6;
+}
+#title{
+	background-color: #DC2E6A;
+	font-size: 50px;
+}
+#subsubtitle{
+	background-color: #E64471;
+	font-size: 25px;
+}
+#sourcecode{
+}
+#hr{
+	color: #C21E56;
+}
